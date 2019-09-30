@@ -19,6 +19,9 @@ $ yarn generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
+Githubはこちら  
+- https://github.com/usu-blog/nuxt-vuetify-storybook
+
 # Nuxt Vuetify TypeScript StoryBook
 
 <details><summary>create-nuxt-app</summary>
@@ -50,13 +53,9 @@ create-nuxt-app v2.10.1
 yarn add -D node-sass sass-loader
 ```
 
-ファイル名を変更しておく
-
-`nuxt-config.js` -> `nuxt-config.ts`
-
 ## Google Material Icons を CDN で入れる
 
-<details><summary>nuxt-config.ts</summary>
+<details><summary>nuxt-config.js</summary>
 
 ```ts
 link: [
@@ -83,6 +82,10 @@ link: [
 ```bash
 yarn add -D @nuxt/typescript-runtime @nuxt/typescript-build
 ```
+
+ファイル名を変更しておく
+
+`nuxt-config.js` -> `nuxt-config.ts`
 
 <details><summary>nuxt-config.ts</summary>
 
