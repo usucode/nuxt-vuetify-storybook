@@ -1,5 +1,3 @@
-# Nuxt Vuetify TypeScript StoryBook
-
 > My pioneering Nuxt.js project
 
 ## Build Setup
