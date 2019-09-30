@@ -22,6 +22,9 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 Githubはこちら  
 - https://github.com/usu-blog/nuxt-vuetify-storybook
 
+## まだ対応できていないところ
+- [ ] StoryBook側のTSの対応（多分WebPackにTS対応の記述するだけ）
+
 # Nuxt Vuetify TypeScript StoryBook
 
 <details><summary>create-nuxt-app</summary>
