@@ -1,4 +1,4 @@
-> My pioneering Nuxt.js project
+> My pioneering Nuxt.js project.
 
 ## Build Setup
 
@@ -19,11 +19,13 @@ $ yarn generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
-Githubはこちら  
+Github はこちら
+
 - https://github.com/usu-blog/nuxt-vuetify-storybook
 
 ## まだ対応できていないところ
-- [ ] StoryBook側のTSの対応（多分WebPackにTS対応の記述するだけ）
+
+- [ ] StoryBook 側の TS の対応（多分 WebPack に TS 対応の記述するだけ）
 
 # Nuxt Vuetify TypeScript StoryBook
 
